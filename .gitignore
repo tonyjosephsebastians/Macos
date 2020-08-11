@@ -1,0 +1,8 @@
+#Directories
+.vs/
+Macos.VC.db
+Macos.sln
+x64/
+
+#files
+*.user
